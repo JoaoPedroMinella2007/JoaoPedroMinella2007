@@ -1,9 +1,6 @@
-👋 Hello there! My name is João Pedro Minella
+👋 Hello, my name is João Pedro Minella. I’m interested in object-oriented languages like Java, and I’m currently very into databases. I’m learning advanced concepts in Java and working with MySQL.
 
-👀 Interests: Object-Oriented Programming (especially Java) and databases
-🌱 Currently Learning: Advanced Java concepts and MySQL database management
-🎵 Fun Fact: I’m also an instrumentalist 🎸🥁🎹
-📫 Contact: pedrominella123@gmail.com
+Fun fact: I’m an instrumentalist and love playing musical instruments. You can reach me at pedrominella123@gmail.com.
 
 <!---
 JoaoPedroMinella2007/JoaoPedroMinella2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
