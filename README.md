@@ -7,7 +7,7 @@ Busco constantemente aprimorar meus conhecimentos, respeitando as **boas prátic
 ### 🌐 Conecte-se comigo:
 
 <p align="left">
-  <a href="https://github.com/JoaoPedroMinella" target="_blank">
+  <a href="https://github.com/JoaoPedroMinella2007" target="_blank">
     <img 
       alt="GitHub" 
       title="Me siga no GitHub" 
