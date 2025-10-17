@@ -18,7 +18,7 @@ Busco constantemente aprimorar meus conhecimentos, respeitando as **boas prátic
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 
-      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
   <a href="https://www.instagram.com/jp.mnllazx" target="_blank">
