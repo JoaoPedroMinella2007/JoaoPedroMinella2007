@@ -4,7 +4,7 @@ Busco constantemente aprimorar meus conhecimentos, respeitando as **boas prátic
 
 ---
 
-### 🌐 Me conecte:
+### 🌐 Conecte-se comigo:
 
 <p align="left">
   <a href="https://github.com/JoaoPedroMinella" target="_blank">
@@ -14,17 +14,17 @@ Busco constantemente aprimorar meus conhecimentos, respeitando as **boas prátic
       src="https://img.shields.io/badge/GITHUB-1155ba?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/joaopedro-minella" target="_blank">
+  <a href="https://www.linkedin.com/in/joaopedrominella" target="_blank">
     <img 
       alt="LinkedIn" 
-      title="Me conecte no LinkedIn" 
+      title="Conecte-se comigo no LinkedIn" 
       src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a href="https://www.instagram.com/seu_instagram_aqui/" target="_blank">
+  <a href="https://www.instagram.com/jp.mnllazx" target="_blank">
     <img 
       alt="Instagram" 
-      title="Me conecte no Instagram" 
+      title="Me siga no Instagram" 
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
     />
   </a>
@@ -32,19 +32,12 @@ Busco constantemente aprimorar meus conhecimentos, respeitando as **boas prátic
 
 ---
 
-### 🧑‍💻 Tecnologias
+### 🧑‍💻 Linguagens e Tecnologias
 
 <p align="left">
   <img 
     alt="Java" 
     title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-  />
-  <img 
-    alt="JavaFX" 
-    title="JavaFX" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
@@ -85,24 +78,6 @@ Busco constantemente aprimorar meus conhecimentos, respeitando as **boas prátic
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
   />
 </p>
-
----
-
-### 📊 Estatísticas
-
-<img 
-  align="left"
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=JoaoPedroMinella&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-<img 
-  align="left" 
-  alt="Top Langs" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroMinella&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
 
 ---
 
